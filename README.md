@@ -10,6 +10,7 @@ Trainee na **foursys**, em programação android
 - 😏 Aprendendo a programação android com **java**.
 - 🎧 Programando e sempre ouvindo **eletronica**.
 - :video_game: Apaixonado por **jogos**.
+- 📚 Estudando ingles atualmente na **inFlux**
 
 
 ## Tecnologias, ferramentas e linguagens
