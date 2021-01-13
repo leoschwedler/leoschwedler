@@ -14,10 +14,7 @@ Trainee na **foursys**, em programação android
 - 😏 Aprendendo a programação android com **java**.
 - 🎧 Programando e sempre ouvindo **eletronica**.
 - :video_game: Apaixonado por **jogos**.
-
-
 - 📚 Estudando ingles atualmente na **inFlux**
-
 
 
 ## Tecnologias, ferramentas e linguagens
@@ -27,7 +24,7 @@ Trainee na **foursys**, em programação android
 <br />
 <code><img width="30%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code><code><img width="30%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code><code><img width="30%" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 
-
+<img src="https://github.com/leoschwedler/leoschwedler/blob/main/giphy.gif?raw=true">
 
 
 
