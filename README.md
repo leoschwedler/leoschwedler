@@ -1,5 +1,5 @@
 
-## Salve do leozinho <img src="https://github.com/leoschwedler/leoschwedler/blob/main/WhatsApp-Video-2021-01-13-at-17.21.41.gif" width="32px">
+## Salve do leozinho <img src="https://github.com/leoschwedler/leoschwedler/blob/main/WhatsApp-Video-2021-01-13-at-17.21.41.gif?raw=true" width="74px">
 
 
 
