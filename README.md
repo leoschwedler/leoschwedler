@@ -3,6 +3,7 @@
 
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/leonardo-schwedler/) [![followersGit](https://img.shields.io/github/followers/leoschwedler?style=social)](https://github.com/leoschwedler)<img src="https://komarev.com/ghpvc/?username=leoschwedler&label=Profile%20views&color=blue&style=social" alt="leoschwedler" /> 
+
 Me chamo ***leonardo schwedler***, tenho ***20 anos*** de idade, ***programador de android***,e estudante de Análise e desenvolvimento de sistemas.
 
 Sou apaixonado por tecnologia e jogos.
