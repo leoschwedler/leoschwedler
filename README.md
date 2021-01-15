@@ -1,7 +1,6 @@
 ## Salve do leozinho  <img src="https://thumbs.gfycat.com/AstonishingLivelyGermanspitz-size_restricted.gif?raw=true" width="80">
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/)] [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leonardoschwedl)](https://twitter.com/leonardoschwedl)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-schwedler)](https://www.linkedin.com/in/leonardo-schwedler)
+![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/leonardoschwedler) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leonardoschwedl)](https://twitter.com/leonardoschwedl) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-schwedler)](https://www.linkedin.com/in/leonardo-schwedler)
 
 
 Me chamo ***leonardo schwedler***, tenho ***20 anos*** de idade, ***programador de android***,e estudante de Análise e desenvolvimento de sistemas.
