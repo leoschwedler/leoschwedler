@@ -23,7 +23,7 @@ Atualmente trabalho como Trainee de Android na ***Foursys***.
 
 ## ***Meus status do github***
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianoleitedasilva&show_icons=true&locale=en" alt="Adriano Leite da Silva" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoschwedler&]show_icons=true&locale=en" alt="leoschwedler" />
 
 
 
