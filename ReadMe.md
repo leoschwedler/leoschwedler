@@ -1,6 +1,6 @@
 # 💫 About Me:
-Leonardo Schwedler | Mobile Developer<br><br>📱 Mobile Programmer with Expertise in Java, Kotlin, and Flutter<br><br>💼 Experience:<br>Junior Mobile Programmer at Foursys (Jan/2021 - Feb/2023)<br><br>📚 Courses:<br>Git, Oracle, Kotlin, MVVM, Scrum, Java, among others.<br><br>🛠️ Skills:<br>Java | Kotlin | Flutter<br>GIT | Problem Solving<br><br>💡 Objective:<br>Seeking challenges to grow professionally in innovative projects. 🏠 Home:
-Italy, Novara
+Leonardo Schwedler | Mobile Developer<br><br>📱 Mobile Programmer with Expertise in Java, Kotlin, and Flutter<br><br>💼 Experience:<br>Junior Mobile Programmer at Foursys (Jan/2021 - Feb/2023)<br><br>📚 Courses:<br>Git, Oracle, Kotlin, MVVM, Scrum, Java, among others.<br><br>🛠️ Skills:<br>Java | Kotlin | Flutter<br>GIT | Problem Solving<br><br>💡 Objective:<br>Seeking challenges to grow professionally in innovative projects. 
+🏠 Home:Italy, Novara
 
 
 ## 🌐 Socials:
