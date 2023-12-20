@@ -1,8 +1,22 @@
 # 💫 About Me:
-Leonardo Schwedler | Mobile Developer<br><br>📱 Mobile Programmer with Expertise in Java, Kotlin, and Flutter<br><br>💼 Experience:<br>Junior Mobile Programmer at Foursys (Jan/2021 - Feb/2023)<br><br>📚 Courses:<br>Git, Oracle, Kotlin, MVVM, Scrum, Java, among others.<br><br>🛠️ Skills:<br>Java | Kotlin | Flutter<br>GIT | Problem Solving<br><br>💡 Objective:<br>Seeking challenges to grow professionally in innovative projects. <br><br>
-🏠 Home:<br>
-Italy, Novara <br>
+Leonardo Schwedler | Mobile Developer<br>
 
+📱 I'm a passionate software developer with a solid experience in mobile programming. Over the past few years, I've had the opportunity to lead challenging projects, refining my skills in various technologies and methodologies.
+
+💼 Experience:
+
+Junior Mobile Developer - Foursys (Jan/2021 - Jan/2023)
+
+I worked at Foursys for 2 and a half years as a mobile developer, leading the development of innovative applications for Android and iOS. I effectively collaborated in multifunctional teams, integrating technologies to enhance application functionality. I excelled in source code maintenance, implementing improvements, and resolving bugs to ensure stability. I actively contributed to agile environments, adopting methodologies like Scrum and Kanban, and staying updated on the latest trends through training courses.
+
+📚 Courses:
+
+Java | Kotlin | Dart | SQL and NoSQL | Postgreesql | MongoDB | Git - GitHub | MVVM Architecture | Spring Boot | Maven | Scrum Fundamentals
+
+
+💡 Objective:
+
+I'm seeking challenges to grow professionally in innovative projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/developer_ls/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-schwedler-4761001a3/) 
