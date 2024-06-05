@@ -11,18 +11,17 @@ I worked for Foursys, an IT consulting company that provided services for Banco 
 
 📚 Courses:
 
-ANDROID DEVELOPMENT (JAVA AND KOTLIN)
-MVC, MVP, MVVM ARCHITECTURES
-CLEAN ARCHITECTURE
-DEPENDENCY INJECTION WITH HILT
-APIs WITH RETROFIT, COROUTINES
-SOLID PRINCIPLES
-GIT AND GITHUB
-FIREBASE, SQLITE AND SQL
-JETPACK (LIVEDATA, DATABINDING,
-VIEWMODEL, ROOM)
-SCRUM METHODOLOGY
-SERVICE AND BROADCAST
+Android Development (Java and Kotlin)
+| MVC, MVP, MVVM Architectures
+| Clean Architecture
+| Dependency Injection with Hilt
+| APIs with Retrofit, Coroutines
+| SOLID Principles
+| Git and GitHub
+| Firebase, SQLite and SQL
+| Jetpack (LiveData, DataBinding, ViewModel, Room)
+| Scrum Methodology
+| Service and Broadcast
 
 💡 Objective:
 
