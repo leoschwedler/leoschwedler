@@ -1,18 +1,28 @@
 # 💫 About Me:
 Leonardo Schwedler | Mobile Developer<br>
 
-📱 I'm a passionate software developer with a solid experience in mobile programming. Over the past few years, I've had the opportunity to lead challenging projects, refining my skills in various technologies and methodologies.
+📱 I am a mobile programmer with 2 years of experience in native Android development using Java and Kotlin. I have advanced knowledge in managing the application lifecycle of software architecture and in performance optimization.
 
 💼 Experience:
 
-Junior Mobile Developer - Foursys (Jan/2021 - Jan/2023)
+Developer Android - Foursys (Jan/2021 - Jan/2023)
 
-I worked at Foursys for 2 and a half years as a mobile developer, leading the development of innovative applications for Android and iOS. I effectively collaborated in multifunctional teams, integrating technologies to enhance application functionality. I excelled in source code maintenance, implementing improvements, and resolving bugs to ensure stability. I actively contributed to agile environments, adopting methodologies like Scrum and Kanban, and staying updated on the latest trends through training courses.
+I worked for Foursys, an IT consulting company that provided services for Banco Next. In Brazil, I worked for two years at Foursys, where I participated in the development of a banking application in the credit sector. My responsibilities included bug resolution, layout correction, creation of new features, and consumption of API endpoints. During my time at Banco Next, I held various roles related to native Android development, where I was able to develop skills in Java, Kotlin, Android SDK, Retrofit, SQLite, responsive interface design, and integration with RESTful services. This experience has provided me with a deep understanding of banking operations and IT practices applied in the financial sector.
 
 📚 Courses:
 
-Java | Kotlin | Dart | SQL and NoSQL | Postgreesql | MongoDB | Git - GitHub | MVVM Architecture | Spring Boot | Maven | Scrum Fundamentals
-
+ANDROID DEVELOPMENT (JAVA AND KOTLIN)
+MVC, MVP, MVVM ARCHITECTURES
+CLEAN ARCHITECTURE
+DEPENDENCY INJECTION WITH HILT
+APIs WITH RETROFIT, COROUTINES
+SOLID PRINCIPLES
+GIT AND GITHUB
+FIREBASE, SQLITE AND SQL
+JETPACK (LIVEDATA, DATABINDING,
+VIEWMODEL, ROOM)
+SCRUM METHODOLOGY
+SERVICE AND BROADCAST
 
 💡 Objective:
 
