@@ -33,8 +33,16 @@ I'm seeking challenges to grow professionally in innovative projects.
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leoschwedler&theme=radical&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=leoschwedler&theme=radical&hide_border=false)<br/>
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=leoschwedler&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoschwedler&theme=radical&hide_border=false" />
+    </td>
+  </tr>
+</table>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leoschwedler&icon=0&color=0)](https://visitcount.itsvg.in)
