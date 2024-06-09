@@ -3,13 +3,13 @@ Leonardo Schwedler | Mobile Developer<br>
 
 📱 I am a mobile programmer with 2 years of experience in native Android development using Java and Kotlin. I have advanced knowledge in managing the application lifecycle of software architecture and in performance optimization.
 
-💼 Experience:
+## 💼 Experience:
 
 Developer Android - Foursys (Jan/2021 - Jan/2023)
 
 I worked for Foursys, an IT consulting company that provided services for Banco Next. In Brazil, I worked for two years at Foursys, where I participated in the development of a banking application in the credit sector. My responsibilities included bug resolution, layout correction, creation of new features, and consumption of API endpoints. During my time at Banco Next, I held various roles related to native Android development, where I was able to develop skills in Java, Kotlin, Android SDK, Retrofit, SQLite, responsive interface design, and integration with RESTful services. This experience has provided me with a deep understanding of banking operations and IT practices applied in the financial sector.
 
-📚 Courses:
+## ⚡Habilidades
 
 Android Development (Java and Kotlin)
 | MVC, MVP, MVVM Architectures
@@ -23,7 +23,7 @@ Android Development (Java and Kotlin)
 | Scrum Methodology
 | Service and Broadcast
 
-💡 Objective:
+## 💡Objective:
 
 I'm seeking challenges to grow professionally in innovative projects.
 
