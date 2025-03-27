@@ -11,14 +11,14 @@ At Foursys, an IT consulting company that provided services for Banco Next, I wo
 
 ## ⚡ Skills
 
-- **Android Development**: Java and Kotlin
-- **Architectures**: MVC, MVP, MVVM, Clean Architecture
+- **Android Development**: Java Kotlin Kmp and Flutter
+- **Architectures**: MVI, MVC, MVP, MVVM, Clean Architecture
 - **Dependency Injection**: Hilt
-- **APIs**: Retrofit, Coroutines
+- **APIs**: Ktor, Retrofit, Coroutines
 - **Principles**: SOLID
 - **Version Control**: Git and GitHub
-- **Databases**: Firebase, SQLite, SQL
-- **Jetpack**: LiveData, DataBinding, ViewModel, Room
+- **Databases**: Firebase, Room, Shared Preferences
+- **Jetpack**: LiveData, StateFlow, DataBinding, ViewModel, Room
 - **Methodologies**: Scrum
 - **Others**: Service and Broadcast
 
