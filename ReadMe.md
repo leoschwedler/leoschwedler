@@ -1,18 +1,13 @@
 # 📝 About Me
-**Leonardo Schwedler | Mobile Developer**
+Hello! I'm Leo, a developer passionate about solving problems through technology.
+Currently, I focus on mobile development with native Android and Flutter, while also continuing my studies in backend development with Java Spring Boot. I’ve been closely following the evolution of artificial intelligence, which has significantly boosted my productivity—speeding up project delivery by up to 10 times.
 
-📱 I’m a mobile developer with over 3 years of experience in native Android development, specialized in Kotlin and Java. I have strong knowledge of application lifecycle management, scalable architecture (MVVM, MVI, Clean Architecture), and performance optimization. I enjoy building intuitive, high-performance applications that work both online and offline.
+During my experience in Italy, I worked as a mobile developer at major companies like Banca Intesa and Divitech, where I deepened my passion for mobile development. This journey began at Next Bank, where I discovered my love for the field.
 
-## 💼 Experience
+Flutter won me over with its ease of creating beautiful interfaces, and I feel comfortable working with various architectures such as MVVM, MVI, MVC, MVP, and Clean Architecture. At the same time, I’ve been keeping up with the rise of Jetpack Compose, which has become my main stack for native Android development. My favorite packages include Hilt, Dagger, Retrofit, Ktor, and Room.
 
-**Android Developer – Divitech (Feb/2024 – Present)**  
-Developing the NLI railway ticketing app for devices with integrated printers. I'm responsible for the onboarding flow, login screen, ticket selection, and offline access logic. Working with Jetpack Compose and XML, using Room, Retrofit, and Dagger.
-
-**Android Developer – Reply (Sep/2023 – Dec/2023)**  
-Worked on the onboarding section of the Intesa Sanpaolo banking app. Managed UI components in XML, API integration using Retrofit and OkHttp, and implemented dependency injection with Hilt in an MVVM architecture.
-
-**Android Developer – Foursys (Jan/2021 – Aug/2023)**  
-Participated in the development of a banking app for Banco Next. Responsible for new features, bug fixes, and layout improvements. Consumed RESTful APIs using Retrofit and managed data with SQLite and SharedPreferences.
+I believe that principles like SOLID and separation of concerns are essential for scalable projects, but I also value flexibility depending on the project’s context.
+My goal is to become a developer with a global impact on every project I’m part of. I strive to make a difference—and always will!
 
 ## ⚡ Skills
 
