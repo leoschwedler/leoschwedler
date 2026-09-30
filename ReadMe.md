@@ -97,14 +97,12 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 <br>
 
 <p align="center">
-<a href="https://github.com/leoschwedler">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub">
+<a href="https://github.com/leoschwedler?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=github&logoColor=22C55E" alt="Projects">
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/leonardo-schwuedller/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn">
 </a>
-&nbsp;
 <a href="https://www.instagram.com/developer_ls/">
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=22C55E" alt="Instagram">
 </a>
