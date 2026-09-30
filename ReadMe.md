@@ -2,7 +2,10 @@
 
 <img src="./assets/hacker-header.gif" width="100%" alt="Animated hacker style Leo header">
 <img src="./assets/code-scroll.gif" width="100%" alt="Animated scrolling code">
+
 </div>
+
+---
 
 <div align="center" id="experience">
 
@@ -91,15 +94,21 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 
 ## CONNECT
 
+<br>
+
+<p align="center">
 <a href="https://github.com/leoschwedler">
 <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub">
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/leonardo-schwuedller/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn">
 </a>
+&nbsp;
 <a href="https://www.instagram.com/developer_ls/">
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=22C55E" alt="Instagram">
 </a>
+</p>
 
 <br>
 
