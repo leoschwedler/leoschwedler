@@ -2,12 +2,7 @@
 
 <img src="./assets/hacker-header.gif" width="100%" alt="Animated hacker style Leo header">
 <img src="./assets/code-scroll.gif" width="100%" alt="Animated scrolling code">
-
-<br><br>
-
 </div>
-
----
 
 <div align="center" id="experience">
 
@@ -79,18 +74,18 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoschwedler&theme=github_dark" width="100%" alt="GitHub profile details">
 
-<br><br>
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoschwedler&theme=github_dark" width="49%" alt="GitHub stats">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoschwedler&theme=github_dark" width="49%" alt="Languages">
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=leoschwedler&label=PROFILE+VIEWS&color=22c55e&style=for-the-badge" alt="Profile views">
 
 </div>
 
-<img src="./assets/code-scroll.gif" width="100%" alt="Animated code divider">
+---
 
 <div align="center" id="connect">
 
@@ -106,7 +101,7 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=22C55E" alt="Instagram">
 </a>
 
-<br><br>
+<br>
 
 <a href="#top"><img src="https://img.shields.io/badge/BACK_TO_TOP-001a0f?style=for-the-badge&logo=letsencrypt&logoColor=22C55E" alt="Back to top"></a>
 
