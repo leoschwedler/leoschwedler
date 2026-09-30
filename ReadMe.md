@@ -5,11 +5,6 @@
 
 <br><br>
 
-<a href="#experience"><img src="https://img.shields.io/badge/OPEN_EXPERIENCE-001a0f?style=for-the-badge&logo=readme&logoColor=22C55E" alt="Open experience"></a>
-<a href="#stack"><img src="https://img.shields.io/badge/OPEN_STACK-001a0f?style=for-the-badge&logo=readme&logoColor=22C55E" alt="Open stack"></a>
-<a href="#github"><img src="https://img.shields.io/badge/OPEN_DASHBOARD-001a0f?style=for-the-badge&logo=github&logoColor=22C55E" alt="Open dashboard"></a>
-<a href="#connect"><img src="https://img.shields.io/badge/CONTACT_LEO-001a0f?style=for-the-badge&logo=protonmail&logoColor=22C55E" alt="Contact Leo"></a>
-
 </div>
 
 ---
