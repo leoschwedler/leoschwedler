@@ -16,7 +16,10 @@
 
 <div align="center" id="experience">
 
+<details>
+<summary style="cursor: pointer; text-align: center;">
 <img src="https://img.shields.io/badge/ABRIR_EXPERIENCIA_PROFISSIONAL-001a0f?style=for-the-badge&logo=readme&logoColor=22C55E" alt="Abrir experiencia profissional">
+</summary>
 
 <br>
 
@@ -46,13 +49,18 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 
 </div>
 
+</details>
+
 </div>
 
 ---
 
 <div align="center" id="stack">
 
+<details>
+<summary style="cursor: pointer; text-align: center;">
 <img src="https://img.shields.io/badge/OPEN_STACK-001a0f?style=for-the-badge&logo=readme&logoColor=22C55E" alt="Open stack">
+</summary>
 
 <br>
 
@@ -63,6 +71,8 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,java,spring,react,ts,js,html,css,postgres,mysql,docker,git,github&perline=8" alt="Technology stack">
 
 <br><br>
+
+</details>
 
 </div>
 
