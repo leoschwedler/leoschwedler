@@ -6,7 +6,7 @@
 <br><br>
 
 <a href="#experience"><img src="https://img.shields.io/badge/OPEN_EXPERIENCE-001a0f?style=for-the-badge&logo=readme&logoColor=22C55E" alt="Open experience"></a>
-<a href="#stack"><img src="https://img.shields.io/badge/SEE_STACK-001a0f?style=for-the-badge&logo=hackthebox&logoColor=22C55E" alt="See stack"></a>
+<a href="#stack"><img src="https://img.shields.io/badge/OPEN_STACK-001a0f?style=for-the-badge&logo=readme&logoColor=22C55E" alt="Open stack"></a>
 <a href="#github"><img src="https://img.shields.io/badge/OPEN_DASHBOARD-001a0f?style=for-the-badge&logo=github&logoColor=22C55E" alt="Open dashboard"></a>
 <a href="#connect"><img src="https://img.shields.io/badge/CONTACT_LEO-001a0f?style=for-the-badge&logo=protonmail&logoColor=22C55E" alt="Contact Leo"></a>
 
@@ -53,20 +53,18 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 
 </div>
 
-<img src="./assets/code-scroll.gif" width="100%" alt="Animated code divider">
+---
 
 <div align="center" id="stack">
 
-## STACK TERMINAL
-
 <details>
 <summary style="list-style: none; cursor: pointer; text-align: center;">
-<img src="https://img.shields.io/badge/ABRIR_STACK_INTERATIVA-001a0f?style=for-the-badge&logo=hackthebox&logoColor=22C55E" alt="Abrir stack interativa">
+<img src="https://img.shields.io/badge/OPEN_STACK-001a0f?style=for-the-badge&logo=readme&logoColor=22C55E" alt="Open stack">
 </summary>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=1000&pause=400&color=86EFAC&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=90&lines=%24+loading+stack.modules;%E2%9C%93+resolving+frontend+toolchain...;%E2%9C%93+resolving+backend+services..." alt="Stack loading animation">
+---
 
 <br>
 
@@ -78,7 +76,7 @@ Meu objetivo e gerar impacto global, integrando Mobile e Backend de forma escala
 
 </div>
 
-<img src="./assets/code-scroll.gif" width="100%" alt="Animated code divider">
+---
 
 <div align="center" id="github">
 
