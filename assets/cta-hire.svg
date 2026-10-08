@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#052e1a"/><stop offset="1" stop-color="#06303a"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="2" y="2" width="896" height="106" rx="18"/></clipPath></defs>
+<rect x="2" y="2" width="896" height="106" rx="18" fill="url(#bg)" stroke="#4ADE80" stroke-width="2"><animate attributeName="stroke" values="#4ADE80;#38bdf8;#4ADE80" dur="4s" repeatCount="indefinite"/></rect>
+<g clip-path="url(#c)"><rect x="-120" width="110" height="110" fill="url(#sh)" transform="skewX(-20)"><animate attributeName="x" values="-150;1000" dur="3.2s" repeatCount="indefinite"/></rect></g>
+<circle cx="52" cy="55" r="9" fill="#22C55E"><animate attributeName="r" values="7;12;7" dur="1.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1" dur="1.3s" repeatCount="indefinite"/></circle>
+<text x="84" y="48" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="26" font-weight="800" fill="#ECFDF5" letter-spacing="2">DISPONÍVEL PARA NOVAS OPORTUNIDADES</text>
+<text x="84" y="78" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#86EFAC">Full Stack Júnior · Java/Spring Boot + React/TypeScript · Curitiba presencial ou remoto</text>
+<text x="850" y="66" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="34" font-weight="800" fill="#4ADE80">›<animate attributeName="x" values="842;858;842" dur="1.2s" repeatCount="indefinite"/></text>
+</svg>

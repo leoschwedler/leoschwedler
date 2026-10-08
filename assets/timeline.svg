@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340">
+<rect x=".75" y=".75" width="958.5" height="338.5" rx="12" fill="#03130b" stroke="#22C55E" stroke-opacity=".45"/>
+<line x1="34" y1="44" x2="34" y2="290" stroke="#22C55E" stroke-opacity=".5" stroke-width="2" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" from="0" to="-24" dur="1.2s" repeatCount="indefinite"/></line>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.0286;0.0714;0.9143;1" values="0;0;1;1;0"/>
+<circle cx="34" cy="44" r="8" fill="#03130b" stroke="#22C55E" stroke-width="2"><animate attributeName="r" values="7;10;7" dur="2s" begin="0.4s" repeatCount="indefinite"/></circle>
+<text x="64" y="38" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#2f8f55" letter-spacing="1">02/2026 — hoje</text>
+<text x="64" y="62" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="19" font-weight="700" fill="#ECFDF5">KSC Brasil</text>
+<text x="64" y="84" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#4ADE80">Desenvolvedor Full Stack</text>
+<text x="64" y="104" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#86EFAC" opacity=".8">React · TypeScript · Java · Spring Boot · JUnit/Mockito · automação de deploy</text>
+<animateTransform attributeName="transform" type="translate" dur="14s" repeatCount="indefinite" keyTimes="0;0.0286;0.0714;1" values="-24 0;-24 0;0 0;0 0"/></g><g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.1429;0.1857;0.9143;1" values="0;0;1;1;0"/>
+<circle cx="34" cy="148" r="8" fill="#03130b" stroke="#22C55E" stroke-width="2"><animate attributeName="r" values="7;10;7" dur="2s" begin="2.0s" repeatCount="indefinite"/></circle>
+<text x="64" y="142" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#2f8f55" letter-spacing="1">09/2024 — 08/2025</text>
+<text x="64" y="166" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="19" font-weight="700" fill="#ECFDF5">Ibra Consulting · Turim, Itália</text>
+<text x="64" y="188" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#4ADE80">Desenvolvedor Mobile / Android</text>
+<text x="64" y="208" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#86EFAC" opacity=".8">Intesa Sanpaolo (onboarding, MVI) · Divitech (app offline-first) · React + Docker</text>
+<animateTransform attributeName="transform" type="translate" dur="14s" repeatCount="indefinite" keyTimes="0;0.1429;0.1857;1" values="-24 0;-24 0;0 0;0 0"/></g><g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="linear" keyTimes="0;0.2571;0.3;0.9143;1" values="0;0;1;1;0"/>
+<circle cx="34" cy="252" r="8" fill="#03130b" stroke="#22C55E" stroke-width="2"><animate attributeName="r" values="7;10;7" dur="2s" begin="3.6s" repeatCount="indefinite"/></circle>
+<text x="64" y="246" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#2f8f55" letter-spacing="1">01/2021 — 01/2023</text>
+<text x="64" y="270" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="19" font-weight="700" fill="#ECFDF5">Foursys</text>
+<text x="64" y="292" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="14" fill="#4ADE80">Desenvolvedor Android</text>
+<text x="64" y="312" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#86EFAC" opacity=".8">Banco Next · Android nativo</text>
+<animateTransform attributeName="transform" type="translate" dur="14s" repeatCount="indefinite" keyTimes="0;0.2571;0.3;1" values="-24 0;-24 0;0 0;0 0"/></g></svg>
