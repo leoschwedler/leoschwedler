@@ -11,7 +11,7 @@
 <div align="center" id="experience">
 
 <details>
-<summary><img src="./assets/btn-experience.svg" width="560" alt="Abrir experiência profissional"></summary>
+<summary><img src="https://raw.githubusercontent.com/leoschwedler/leoschwedler/main/assets/btn-experience.svg" width="560" alt="Abrir experiência profissional"></summary>
 
 <br>
 
@@ -44,7 +44,7 @@ Meu objetivo é gerar impacto global, integrando Mobile e Backend de forma escal
 <div align="center" id="stack">
 
 <details>
-<summary><img src="./assets/btn-stack.svg" width="560" alt="Abrir stack"></summary>
+<summary><img src="https://raw.githubusercontent.com/leoschwedler/leoschwedler/main/assets/btn-stack.svg" width="560" alt="Abrir stack"></summary>
 
 <br>
 
@@ -64,20 +64,10 @@ Meu objetivo é gerar impacto global, integrando Mobile e Backend de forma escal
 
 <br>
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fleoschwedler&query=%24.public_repos&label=REPOSITÓRIOS&color=22c55e&labelColor=03130b&style=for-the-badge&logo=github&logoColor=22C55E" alt="Repositórios públicos">
 <img src="https://img.shields.io/github/followers/leoschwedler?label=SEGUIDORES&color=22c55e&labelColor=03130b&style=for-the-badge&logo=github&logoColor=22C55E" alt="Seguidores">
 <img src="https://komarev.com/ghpvc/?username=leoschwedler&label=VISITAS+NO+PERFIL&color=22c55e&style=for-the-badge" alt="Visitas no perfil">
 
 <br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leoschwedler&theme=github_dark" width="100%" alt="Resumo do perfil no GitHub">
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leoschwedler&theme=github_dark" width="49%" alt="Estatísticas do GitHub">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leoschwedler&theme=github_dark" width="49%" alt="Linguagens mais usadas">
-
-<br>
 
 <img src="https://streak-stats.demolab.com/?user=leoschwedler&theme=github-dark&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=4ADE80" width="70%" alt="Sequência de contribuições">
 
@@ -94,14 +84,6 @@ Meu objetivo é gerar impacto global, integrando Mobile e Backend de forma escal
 <a href="https://www.linkedin.com/in/leonardo-schwedler/"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/developer_ls/"><img src="./assets/btn-instagram.svg" width="32%" alt="Instagram"></a>
 <a href="https://github.com/leoschwedler?tab=repositories"><img src="./assets/btn-github.svg" width="32%" alt="Projetos no GitHub"></a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/leonardo-schwedler/"><img src="./assets/cta-hire.svg" width="100%" alt="Disponível para novas oportunidades"></a>
-
-<br><br>
-
-<a href="#top"><img src="./assets/btn-top.svg" width="290" alt="Voltar ao topo"></a>
 
 <br><br>
 
