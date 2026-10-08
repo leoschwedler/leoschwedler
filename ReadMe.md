@@ -32,7 +32,27 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio,java,spring,react,ts,js,html,css,postgres,mysql,docker,git,github&perline=8" alt="Technology stack">
+<img src="./assets/hdr-front.svg" width="100%" alt="Front-end">
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&perline=5" alt="react, ts, js, html, css">
+
+<br>
+
+<img src="./assets/hdr-back.svg" width="100%" alt="Back-end">
+
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker&perline=5" alt="java, spring, postgres, mysql, docker">
+
+<br>
+
+<img src="./assets/hdr-mobile.svg" width="100%" alt="Mobile">
+
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio&perline=4" alt="kotlin, flutter, dart, androidstudio">
+
+<br>
+
+<img src="./assets/hdr-tools.svg" width="100%" alt="Ferramentas">
+
+<img src="https://skillicons.dev/icons?i=git,github&perline=2" alt="git, github">
 
 <br><br>
 
